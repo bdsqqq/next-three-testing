@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@react-spring/three": "^9.0.0-rc.3",
     "drei": "2.2.13",
     "next": "10.0.5",
     "react": "17.0.1",
